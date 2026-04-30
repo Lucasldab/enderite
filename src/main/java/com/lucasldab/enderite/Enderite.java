@@ -11,6 +11,8 @@ public class Enderite implements ModInitializer {
     public void onInitialize() {
         EnderiteBlocks.register();
         EnderiteItems.register();
+        EnderiteWorldgen.register();
+        EnderiteLoot.register();
         LOGGER.info("Enderite mod initialized");
     }
 }
