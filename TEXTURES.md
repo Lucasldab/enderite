@@ -15,6 +15,10 @@ Until textures exist Minecraft renders the pink/black missing-texture fallback.
 | `assets/enderite/textures/item/enderite_axe.png` | Enderite Axe |
 | `assets/enderite/textures/item/enderite_shovel.png` | Enderite Shovel |
 | `assets/enderite/textures/item/enderite_hoe.png` | Enderite Hoe |
+| `assets/enderite/textures/item/enderite_helmet.png` | Enderite Helmet item sprite (inventory) |
+| `assets/enderite/textures/item/enderite_chestplate.png` | Enderite Chestplate item sprite (inventory) |
+| `assets/enderite/textures/item/enderite_leggings.png` | Enderite Leggings item sprite (inventory) |
+| `assets/enderite/textures/item/enderite_boots.png` | Enderite Boots item sprite (inventory) |
 
 ## Block textures
 
@@ -25,6 +29,15 @@ Until textures exist Minecraft renders the pink/black missing-texture fallback.
 | `assets/enderite/textures/block/enderite_ore.png` | Enderite Ore (stone substrate variant) |
 | `assets/enderite/textures/block/deepslate_enderite_ore.png` | Deepslate Enderite Ore |
 | `assets/enderite/textures/block/end_enderite_ore.png` | End Enderite Ore (end_stone substrate) |
+
+## Armor layer textures
+
+These are applied to the player model when the armor is worn. Minecraft expects them under `assets/enderite/textures/models/armor/`.
+
+| File path | Used by |
+|-----------|---------|
+| `assets/enderite/textures/models/armor/enderite_layer_1.png` | Helmet + chestplate worn layer (64×32) |
+| `assets/enderite/textures/models/armor/enderite_layer_2.png` | Leggings worn layer (64×32) |
 
 ## Notes
 

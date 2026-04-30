@@ -15,6 +15,11 @@
   "item.enderite.enderite_shovel": "Enderite Shovel",
   "item.enderite.enderite_hoe": "Enderite Hoe",
 
+  "item.enderite.enderite_helmet": "Enderite Helmet",
+  "item.enderite.enderite_chestplate": "Enderite Chestplate",
+  "item.enderite.enderite_leggings": "Enderite Leggings",
+  "item.enderite.enderite_boots": "Enderite Boots",
+
   "upgrade.enderite.enderite_upgrade": "Enderite Upgrade",
   "item.enderite.smithing_template.enderite_upgrade.applies_to": "Armor, weapons, and tools",
   "item.enderite.smithing_template.enderite_upgrade.ingredient_slot": "Enderite Ingot",
