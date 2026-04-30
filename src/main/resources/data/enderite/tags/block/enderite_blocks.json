@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "enderite:enderite_block",
+    "enderite:raw_enderite_block",
+    "enderite:enderite_ore",
+    "enderite:deepslate_enderite_ore",
+    "enderite:end_enderite_ore"
+  ]
+}
