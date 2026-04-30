@@ -10,6 +10,11 @@ Until textures exist Minecraft renders the pink/black missing-texture fallback.
 | `assets/enderite/textures/item/raw_enderite.png` | Raw Enderite item |
 | `assets/enderite/textures/item/enderite_ingot.png` | Enderite Ingot item |
 | `assets/enderite/textures/item/enderite_upgrade_smithing_template.png` | Enderite Upgrade Smithing Template item |
+| `assets/enderite/textures/item/enderite_sword.png` | Enderite Sword |
+| `assets/enderite/textures/item/enderite_pickaxe.png` | Enderite Pickaxe |
+| `assets/enderite/textures/item/enderite_axe.png` | Enderite Axe |
+| `assets/enderite/textures/item/enderite_shovel.png` | Enderite Shovel |
+| `assets/enderite/textures/item/enderite_hoe.png` | Enderite Hoe |
 
 ## Block textures
 

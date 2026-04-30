@@ -9,6 +9,12 @@
   "block.enderite.deepslate_enderite_ore": "Deepslate Enderite Ore",
   "block.enderite.end_enderite_ore": "End Enderite Ore",
 
+  "item.enderite.enderite_sword": "Enderite Sword",
+  "item.enderite.enderite_pickaxe": "Enderite Pickaxe",
+  "item.enderite.enderite_axe": "Enderite Axe",
+  "item.enderite.enderite_shovel": "Enderite Shovel",
+  "item.enderite.enderite_hoe": "Enderite Hoe",
+
   "upgrade.enderite.enderite_upgrade": "Enderite Upgrade",
   "item.enderite.smithing_template.enderite_upgrade.applies_to": "Armor, weapons, and tools",
   "item.enderite.smithing_template.enderite_upgrade.ingredient_slot": "Enderite Ingot",
