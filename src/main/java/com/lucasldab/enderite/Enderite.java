@@ -9,6 +9,8 @@ public class Enderite implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        EnderiteBlocks.register();
+        EnderiteItems.register();
         LOGGER.info("Enderite mod initialized");
     }
 }

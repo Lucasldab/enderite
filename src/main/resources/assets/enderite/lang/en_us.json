@@ -1,0 +1,17 @@
+{
+  "item.enderite.raw_enderite": "Raw Enderite",
+  "item.enderite.enderite_ingot": "Enderite Ingot",
+  "item.enderite.enderite_upgrade_smithing_template": "Enderite Upgrade Smithing Template",
+
+  "block.enderite.enderite_block": "Block of Enderite",
+  "block.enderite.raw_enderite_block": "Block of Raw Enderite",
+  "block.enderite.enderite_ore": "Enderite Ore",
+  "block.enderite.deepslate_enderite_ore": "Deepslate Enderite Ore",
+  "block.enderite.end_enderite_ore": "End Enderite Ore",
+
+  "upgrade.enderite.enderite_upgrade": "Enderite Upgrade",
+  "item.enderite.smithing_template.enderite_upgrade.applies_to": "Armor, weapons, and tools",
+  "item.enderite.smithing_template.enderite_upgrade.ingredient_slot": "Enderite Ingot",
+  "item.enderite.smithing_template.enderite_upgrade.base_slot_description": "Add a piece of Netherite armor, weapon, or tool",
+  "item.enderite.smithing_template.enderite_upgrade.additions_slot_description": "Add Enderite Ingot"
+}
