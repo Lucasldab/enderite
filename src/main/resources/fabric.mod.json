@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "enderite",
+  "version": "${version}",
+  "name": "Enderite",
+  "description": "Adds an enderite tier stronger than netherite",
+  "authors": [
+    "Lucasldab"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.lucasldab.enderite.Enderite"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
